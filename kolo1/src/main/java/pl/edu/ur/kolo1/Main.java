@@ -16,7 +16,8 @@ public class Main {
         
         // TODO Uruchomienie zadań/stworzenie i działanie na obiektach
         zad1();
-        fib(n) {
+        zad2()
+                {
        int n;
 System.out.println("Podaj, ktory wyraz ciagu Fibonacciego obliczyc");
 Scanner odczyt = new Scanner(System.in);
